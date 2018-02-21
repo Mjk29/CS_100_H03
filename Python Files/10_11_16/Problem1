@@ -1,0 +1,12 @@
+def twoWords(length, firstLetter):
+	while (input('Enter a word: ', )
+		print("test")
+	
+
+
+
+
+
+
+
+print(twoWords(4, 'b'))

@@ -1,0 +1,5 @@
+characters176
+words35
+lines4
+digits15
+punctuation15

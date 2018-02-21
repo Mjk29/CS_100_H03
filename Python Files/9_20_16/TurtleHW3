@@ -1,0 +1,8 @@
+import turtle
+import time
+
+
+col=input()
+
+print (col)
+
